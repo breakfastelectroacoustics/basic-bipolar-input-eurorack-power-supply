@@ -16,6 +16,6 @@ Components listed on the BOM are only loosely defined. They have to be specified
 
 Dimensions: 99.06 x 41.91 mm
 
-Mounting hole pattern: 76.2 x 35.56 (~3 mm hole diameter)
+Mounting hole pattern: 76.2 x 35.56 mm (~3 mm hole diameter)
 
 The PCB files are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
