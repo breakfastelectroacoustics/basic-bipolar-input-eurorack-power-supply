@@ -1,6 +1,6 @@
 # Basic Bipolar Input Eurorack Power Supply
 
-This power supply derives +12 V, -12 V and +5 V from +12 V AC and -12 V AC with a common GND (same phase, as found on a center-tapped 24 V transformer). It is intended as a cheap and simple bipolar (plus 5 V) power supply for modular synthesizers and general test setups.
+This power supply derives +12 V, -12 V and +5 V from +12 V AC and -12 V AC with a common GND (as found on a center-tapped 24 V transformer). It is intended as a cheap and simple bipolar (plus 5 V) power supply for modular synthesizers and general test setups.
 
 ![Basic Bipolar Input Eurorack Power Supply: PCB](Renderings/basic-bipolar-input-eurorack-power-supply_F.png)
 
